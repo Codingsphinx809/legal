@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Service | BodegaGo</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: auto; padding: 20px;">
+  <h1>Terms of Service</h1>
+  <p><strong>Last updated:</strong> July 24, 2025</p>
+
+  <p>Welcome to BodegaGo! By using our app or services, you agree to these Terms of Service. Please read them carefully.</p>
+
+  <h2>1. Use of the App</h2>
+  <p>You must be at least 13 years old to use BodegaGo. By registering, you agree to provide accurate information and keep your account secure.</p>
+
+  <h2>2. User Conduct</h2>
+  <p>You agree not to misuse the app, break the law, or engage in abusive behavior toward other users, runners, or store owners.</p>
+
+  <h2>3. Payments & Deliveries</h2>
+  <p>Payments are processed securely through our integrated provider. We do not store payment details. Delivery times may vary based on availability and location.</p>
+
+  <h2>4. Account Termination</h2>
+  <p>We reserve the right to suspend or terminate accounts that violate these terms or abuse our platform.</p>
+
+  <h2>5. Limitation of Liability</h2>
+  <p>BodegaGo is not liable for damages resulting from app use, delivery issues, or third-party services.</p>
+
+  <h2>6. Changes to These Terms</h2>
+  <p>We may update these terms from time to time. Continued use of the app means you accept any changes.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have any questions, contact us at: <a href="mailto:codingsphinx@duck.com">codingsphinx@duck.com</a></p>
+
+  <p>This agreement is governed by the laws of New York, USA.</p>
+</body>
+</html>
